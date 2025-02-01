@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom"
+
 const Header =() =>{
     return <div>
         <div >
@@ -13,7 +15,7 @@ const Header =() =>{
                 <li>Courses <i class="fa-solid fa-chevron-down"></i></li>
                 <li>Locations <i class="fa-solid fa-chevron-down"></i></li>
                 <li>Why Lo wagno</li>
-                <li> Events</li>
+               <NavLink to="/events"><li> Events</li></NavLink> 
                 <li> Enters <i class="fa-solid fa-chevron-down"></i></li>
             </ul>
 
