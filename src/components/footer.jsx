@@ -60,7 +60,7 @@ const Footer = () => {
           <a href="https://github.com/hassen-bille" className="hover:opacity-75">GitHub</a>
           <a href="#" className="hover:opacity-75">YouTube</a>
           <a href="#" className="hover:opacity-75">Meetup</a>
-          <a href="#" className="hover:opacity-75">GitHub</a>
+          <a href="https://github.com/Abdikani98" className="hover:opacity-75">GitHub</a>
         </div>
       </div>
     </footer>
