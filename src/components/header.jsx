@@ -20,7 +20,7 @@ const Header =() =>{
             </ul>
 
             <div>
-                <button className="bg-indigo-700 px-3 text-white font-semibold rounded-lg py-1" >Apply</button>
+                <button className="bg-indigo-700 px-4 text-white font-semibold rounded-lg py-1" >Apply</button>
             </div>
 
         </div>
