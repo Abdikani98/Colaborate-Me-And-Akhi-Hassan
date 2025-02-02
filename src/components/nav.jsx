@@ -29,7 +29,7 @@ const Nav=()=>{
         </div>
 
         <div className="bg-violet-900 w-full h-[100%] mt-10">
-            <p className="text-violet-100 text-center pt-10">WHY LE WAGON</p>
+            <p className="text-purple-500 text-center pt-10">WHY LE WAGON</p>
             <h1 className="text-4xl font-semibold text-white pl-[30%]">Learn with supportive teachers and <br /> change your career in a few months</h1>
             <div className="flex justify-center gap-20 pt-32">
                 <div>
@@ -138,6 +138,7 @@ const Nav=()=>{
                 <p  className="text-2xl font-semibold pt-2">tech experts and instructors</p>
             </div>
         </div>
+        
     </div>
 }
 export default Nav
