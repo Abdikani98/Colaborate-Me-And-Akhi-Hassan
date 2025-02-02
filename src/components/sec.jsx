@@ -11,7 +11,7 @@ const Test = ()=>{
 
 
    
-    <div class="bg-purple-900 text-white text-center p-4 font-semibold">
+    <div class="bg-purple-900 text-white text-center p-4 font-semibold mt-5">
         Top tech companies hire our graduates
     </div>
     
