@@ -1,6 +1,6 @@
 
-
 import img from "../assets/one.webp"
+import Footer from "../components/footer"
 import Header from "../components/header"
 
 const Next = ()=>{
@@ -137,6 +137,7 @@ const Next = ()=>{
 
         </div>
     </div>
+    <Footer />
     </>
 }
 

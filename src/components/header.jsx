@@ -8,7 +8,7 @@ const Header =() =>{
                 <div >
                     <button className="bg-red-500 w-10 text-2xl rounded-lg text-white " ><i class="fa-solid fa-car"></i></button>
                 </div>
-                <h1 className="font-semibold">Le wango</h1>
+                <NavLink to="/"><h1 className="font-semibold">Le wango</h1></NavLink>
 
             </div>
             <ul className="flex gap-10">

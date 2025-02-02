@@ -1,8 +1,10 @@
 import Footer from "./footer"
+import Header from "./header"
 import Test from "./sec"
 
     const Nav=()=>{
         return <div >
+            <Header />
             <div className="bg-[url(https://www.lewagon.com/assets/v4/home/desktop-sm-2x-22eff44fda77ebe36084cdbdb496db773a8d6c0db98f25c38eae0997990e1b69.webp)] bg-cover w-[90%] h-screen rounded-3xl ml-16">
             <div className="p-10 pt-20">
                 <h1 className="bg-teal-300 w-[500px] h-10 rounded-2xl pt-2 font-semibold">🚀 1st-ranked bootcamp in the world for 6,000+ reviews</h1>

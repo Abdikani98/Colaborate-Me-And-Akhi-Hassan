@@ -1,7 +1,5 @@
 
 import { Route, Routes } from 'react-router-dom'
-
-import Header from './components/header'
 import Nav from './components/nav'
 import Next from './pages/event'
 
@@ -9,10 +7,10 @@ import Next from './pages/event'
 
 function App() {
   return <div>
-    <Header />
-    <Nav />
+    
  
    <Routes>
+    <Route path='/' element={<Nav />}/>
     <Route path='events' element={<Next/>}/>
    </Routes>
    
