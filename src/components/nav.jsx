@@ -7,7 +7,7 @@ import Test from "./sec"
             <Header />
             <div className="bg-[url(https://www.lewagon.com/assets/v4/home/desktop-sm-2x-22eff44fda77ebe36084cdbdb496db773a8d6c0db98f25c38eae0997990e1b69.webp)] bg-cover w-[90%] h-screen rounded-3xl ml-16">
             <div className="p-10 pt-20">
-                <h1 className="bg-teal-300 w-[500px] h-10 rounded-2xl pt-2 font-semibold">🚀 1st-ranked bootcamp in the world for 6,000+ reviews</h1>
+                <h1 className="bg-yellow-200 pl-10 w-[500px] h-10 rounded-2xl pt-2 font-semibold">🚀 1st-ranked bootcamp in the world for 6,000+ reviews</h1>
                 <h1 className="text-7xl text-white font-semibold pt-4 ">Build your future. <br />
                 Learn Tech & AI.</h1>
                 <p className="text-gray-300 w-96 pt-4 pb-4">Join our immersive courses in web development, data and AI to transform your career and access new opportunities.</p>

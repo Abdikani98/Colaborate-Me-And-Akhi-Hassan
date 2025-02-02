@@ -10,9 +10,9 @@ import imgFour from "../assets/wep.webp"
 const Next = ()=>{
     return <>
     <Header/>
-    <div className="bg-amber-100 flex h-80 justify-between px-20 py-10">
+    <div className="bg-amber-200 flex h-80 justify-between px-20 py-10">
         <div>
-            <h1 className="text-red-500 font-semibold">.Live events</h1>
+            <h1 className="text-red-500 font-semibold text-2xl">.Live events</h1>
             <h1 className="font-semibold text-3xl pt-5 pb-3">Explore our live events, <br /> talks and free workshops</h1>
             <p className="w-80">Jump into a free workshop on UX design or data analytics, attend our students' demo days or join us for an interactive info session and find out more about Le Wagon.</p>
         </div>
@@ -68,7 +68,7 @@ const Next = ()=>{
             </div>
 
             <div>
-                <button className="bg-blue-400  px-5 py-3 font-semibold text-white rounded-lg">Regester now</button>
+                <button className="bg-purple-700  px-5 py-3 font-semibold text-white rounded-lg mt-14">Regester now</button>
             </div>
 
         </div>
@@ -85,7 +85,7 @@ const Next = ()=>{
             </div>
 
             <div>
-                <button className="bg-blue-400  px-5 py-3 font-semibold text-white rounded-lg">Regester now</button>
+                <button className="bg-purple-700  px-5 py-3 font-semibold text-white rounded-lg mt-14">Regester now</button>
             </div>
 
         </div>
@@ -102,7 +102,7 @@ const Next = ()=>{
             </div>
 
             <div>
-                <button className="bg-blue-400  px-5 py-3 font-semibold text-white rounded-lg">Regester now</button>
+                <button className="bg-purple-700  px-5 py-3 font-semibold text-white rounded-lg mt-14">Regester now</button>
             </div>
 
         </div>
@@ -119,7 +119,7 @@ const Next = ()=>{
             </div>
 
             <div>
-                <button className="bg-blue-400  px-5 py-3 font-semibold text-white rounded-lg">Regester now</button>
+                <button className="bg-purple-700  px-5 py-3 font-semibold text-white rounded-lg mt-14">Regester now</button>
             </div>
 
         </div>
@@ -136,7 +136,7 @@ const Next = ()=>{
             </div>
 
             <div>
-                <button className="bg-blue-400 px-5 py-3 font-semibold text-white rounded-lg">Regester now</button>
+                <button className="bg-purple-700  px-5 py-3 font-semibold text-white rounded-lg mt-14">Regester now</button>
             </div>
 
         </div>
