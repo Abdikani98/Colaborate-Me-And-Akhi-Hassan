@@ -2,6 +2,10 @@
 import img from "../assets/one.webp"
 import Footer from "../components/footer"
 import Header from "../components/header"
+import imgOne from "../assets/waa.webp"
+import imgTwo from "../assets/wee.webp"
+import imgThree from "../assets/wrr.webp"
+import imgFour from "../assets/wep.webp"
 
 const Next = ()=>{
     return <>
@@ -51,13 +55,13 @@ const Next = ()=>{
             <li className=" hover:text-blue-500 hover:bg-gray-300 hover:rounded-lg">Demo Day</li>
         </ul>
 
-        <div className="border-2 border-black flex justify-between px-10 py-5 rounded-xl mt-5">
+        <div className="border-2 border-black flex justify-between px-10 py-5 rounded-xl mt-5 ml-36 mr-36">
             <div>
                 <img className="w-60 rounded-lg" src={img} alt="" />
             </div>
 
             <div>
-                <h1 className="font-semibold">info sesone</h1>
+                <h1 className="font-semibold text-2xl">info sesone</h1>
                 <h1>How to finance your bootcamp with an <br /> interest-free loan</h1>
                 <h1>Tue, February 4 • 12:00 pm <br /> (Europe/Amsterdam Time)</h1>
                 <h1>online</h1>
@@ -68,13 +72,13 @@ const Next = ()=>{
             </div>
 
         </div>
-        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl">
+        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl ml-36 mr-36">
             <div>
-                <img className="w-60 rounded-lg" src={img} alt="" />
+                <img className="w-60 rounded-lg" src={imgOne} alt="" />
             </div>
 
             <div>
-                <h1 className="font-semibold">info sesone</h1>
+                <h1 className="font-semibold text-2xl">info sesone</h1>
                 <h1>How to finance your bootcamp with an <br /> interest-free loan</h1>
                 <h1>Tue, February 4 • 12:00 pm <br /> (Europe/Amsterdam Time)</h1>
                 <h1>online</h1>
@@ -85,13 +89,13 @@ const Next = ()=>{
             </div>
 
         </div>
-        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl">
+        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl ml-36 mr-36">
             <div>
-                <img className="w-60 rounded-lg" src={img} alt="" />
+                <img className="w-60 rounded-lg" src={imgTwo} alt="" />
             </div>
 
             <div>
-                <h1 className="font-semibold">info sesone</h1>
+                <h1 className="font-semibold text-2xl">info sesone</h1>
                 <h1>How to finance your bootcamp with an <br /> interest-free loan</h1>
                 <h1>Tue, February 4 • 12:00 pm <br /> (Europe/Amsterdam Time)</h1>
                 <h1>online</h1>
@@ -102,13 +106,13 @@ const Next = ()=>{
             </div>
 
         </div>
-        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl">
+        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl ml-36 mr-36">
             <div>
-                <img className="w-60 rounded-lg" src={img} alt="" />
+                <img className="w-60 rounded-lg" src={imgThree} alt="" />
             </div>
 
             <div>
-                <h1 className="font-semibold">info sesone</h1>
+                <h1 className="font-semibold text-2xl">info sesone</h1>
                 <h1>How to finance your bootcamp with an <br /> interest-free loan</h1>
                 <h1>Tue, February 4 • 12:00 pm <br /> (Europe/Amsterdam Time)</h1>
                 <h1>online</h1>
@@ -119,13 +123,13 @@ const Next = ()=>{
             </div>
 
         </div>
-        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl">
+        <div className="border-2 border-black flex justify-between px-10 py-5 mt-5 rounded-xl ml-36 mr-36">
             <div>
-                <img className="w-60 rounded-lg" src={img} alt="" />
+                <img className="w-60 rounded-lg" src={imgFour} alt="" />
             </div>
 
             <div>
-                <h1 className="font-semibold">info sesone</h1>
+                <h1 className="font-semibold text-2xl">info sesone</h1>
                 <h1>How to finance your bootcamp with an <br /> interest-free loan</h1>
                 <h1>Tue, February 4 • 12:00 pm <br /> (Europe/Amsterdam Time)</h1>
                 <h1>online</h1>
