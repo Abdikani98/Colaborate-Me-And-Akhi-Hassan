@@ -6,7 +6,7 @@ const Header =() =>{
         <div className="flex gap-10 justify-between px-5 py-3" >
             <div className="flex gap-3">
                 <div >
-                    <button className="bg-red-500 w-10 text-2xl rounded-lg text-white " ><i class="fa-solid fa-car"></i></button>
+                    <button className="bg-red-700 w-10 text-2xl rounded-lg text-white " ><i class="fa-solid fa-car"></i></button>
                 </div>
                 <NavLink to="/"><h1 className="font-semibold">Le wango</h1></NavLink>
 
